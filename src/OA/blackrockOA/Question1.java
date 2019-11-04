@@ -1,4 +1,4 @@
-package blackrockOA;
+package OA.blackrockOA;
 
 public class Question1 {
     public void reverseSpell(String input){

@@ -1,4 +1,4 @@
-package blackrockOA;
+package OA.blackrockOA;
 
 public class Question3 {
 //    Given a pattern as the first argument and a string of blobs split by | show the
